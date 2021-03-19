@@ -17,4 +17,8 @@
   # Testing is working on
   Please wait for some time
 
-  adding some course file like unix,linux and devops
+<<<<<<< HEAD
+=======
+  java,sql,aws,google,azur
+
+>>>>>>> devops
