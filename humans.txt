@@ -16,9 +16,4 @@
 
   # Testing is working on
   Please wait for some time
-
-<<<<<<< HEAD
-=======
-  java,sql,aws,google,azur
-
->>>>>>> devops
+checking with meriging
