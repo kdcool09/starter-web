@@ -17,4 +17,5 @@
   # Testing is working on
   Please wait for some time
 
-  #adding new file
+  java,sql,aws,google,azur
+
