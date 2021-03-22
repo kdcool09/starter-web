@@ -1,4 +1,4 @@
-Starter Web- Project
+Web- Project
 This GIT Project which are using as Sample Project.
 
 Introuction 
@@ -12,10 +12,7 @@ This is the famous and of the Best Training Course of Devops
 Kiran Dalvi
 File need to update 
 
-kirandalvi@gmail.com
 
 Hello team iam learining new thinks
 
-hello please check any issue or not
-
-we have more work
+Adding sql,aws,azure
