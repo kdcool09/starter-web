@@ -13,6 +13,5 @@ Kiran Dalvi
 File need to update 
 
 
-Hello team iam learining new thinks
-
-Adding sql,aws,azure
+adding some file in this file 
+aws devopas
